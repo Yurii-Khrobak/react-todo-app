@@ -1,0 +1,7 @@
+.myBtn {
+  border: orange 1px solid;
+  padding: 5px 10px;
+  color: orange;
+  background: transparent;
+  border-radius: 5px;
+}
