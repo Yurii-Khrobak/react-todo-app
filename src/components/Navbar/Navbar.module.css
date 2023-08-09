@@ -1,6 +1,8 @@
 .navbar {
   display: flex;
+  column-gap: 10px;
   justify-content: space-between;
+  align-items: center;
   border-bottom: 1px solid #696969;
   padding: 15px 25px; 
 }
@@ -8,9 +10,17 @@
 .logo {
   display: flex;
   text-decoration: none;
-  font-size: 45px;
+  font-size: 40px;
+  margin: 0;
+  padding: 0;
 }
 
 .logo__react {
   color: orange;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
 }
